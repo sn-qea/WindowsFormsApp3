@@ -58,9 +58,5 @@ namespace WindowsFormsApp3
             label2.Text = image1.ThermalParameters.ReflectedTemperature.ToString("F2") + ("° C");
         }
 
-        //push WindowsFormsApp3 project to GitHub
-
-
-
     }
 }
